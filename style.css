@@ -1,0 +1,23 @@
+.texto__menor{
+    font-size: 0.7rem;
+}
+.divs__facilidades{
+    width: 325px;
+}
+.div-novidades{
+    width: 325px;
+}
+.btn-cards-produtos{
+    background-color: #9353FF !important;
+}
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+
+}
+.verde-limao{
+    color: #DAFF01;
+}
+
